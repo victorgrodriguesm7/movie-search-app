@@ -18,9 +18,9 @@ export default {
                 director,
                 synopsis
             })
-            return res.send(200);
+            return res.sendStatus(200);
         } catch (error) {
-            return res.send(400).json({error});
+            return res.sendStatus(400).json({error});
         }
 
     }
