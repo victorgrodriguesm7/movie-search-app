@@ -1,11 +1,8 @@
 import { Router } from "express";
-
+import movieController from "./controllers/movieController";
 const routes = Router();
 
-
-// Return a list of Movies
-routes.get("/movies", (req, res) => {
-    return res.send("Index Movies");
-})
+routes.get("/movies", movieController.index);
+routes.post("/movies", movieController.create);
 
 export default routes;
