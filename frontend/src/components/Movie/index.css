@@ -1,0 +1,21 @@
+.movie {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.movie h1 {
+    font-size: 30px;
+    margin: 0 0 2px 0;
+}
+.movie img {
+    width: 70%;
+    height: 80%;
+}
+
+.movie .year{
+    font-size: 15px;
+    margin-top: -5px;
+    font-weight: bold;
+}
