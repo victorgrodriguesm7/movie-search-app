@@ -2,7 +2,7 @@
 <p align="center">
     <img alt="Last commit on GitHub" src="https://img.shields.io/github/languages/top/victorgrodriguesm7/movie-search-app">
     <img alt="Made by Victor" src="https://img.shields.io/badge/made%20by-Victor%20G.%20Rodrigues-%20">
-    <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/victorgrodriguesm7/movie-search-app/">
+    <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/victorgrodriguesm7/movie-search-app">
 </p>
 
 # Movie Search App
@@ -26,7 +26,7 @@ This Project was developed with the following technologies:
 <p aling="center">
     <img src="https://res.cloudinary.com/dozoyzosn/image/upload/v1606164691/search-movie-app/searchPage_m6tn2f.png" height="250">
     <img src="https://res.cloudinary.com/dozoyzosn/image/upload/v1606165189/search-movie-app/searchPage-Iron_o9xj6x.png" height="250">
-    <video src="https://res.cloudinary.com/dozoyzosn/video/upload/v1606165084/search-movie-app/SearchPage-Video.mp4" height="250">
+    <img src="https://res.cloudinary.com/dozoyzosn/image/upload/v1606165491/search-movie-app/searchPage-iron_vhtvig.gif" height="250">
 </p>
 
 ### :information_source: How to run
