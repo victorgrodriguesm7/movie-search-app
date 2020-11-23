@@ -40,7 +40,7 @@ To run the application you will need:
 Now clone the repository and install the dependencies
 ```bash
 # to clone the repository
-git clone https://github.com/StefanoSaffran/spotify-clone.git
+git clone https://github.com/victorgrodriguesm7/movie-search-app.git
 
 # go into the project folder
 cd movie-search-app
