@@ -1,8 +1,9 @@
 
 <p align="center">
-    <img alt="Last commit on GitHub" src="https://img.shields.io/github/languages/top/victorgrodriguesm7/movie-search-app">
+    <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/victorgrodriguesm7/movie-search-app">
     <img alt="Made by Victor" src="https://img.shields.io/badge/made%20by-Victor%20G.%20Rodrigues-%20">
     <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/victorgrodriguesm7/movie-search-app">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/victorgrodriguesm7/movie-search-app">
 </p>
 
 # Movie Search App
