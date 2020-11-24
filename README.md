@@ -27,7 +27,10 @@ This Project was developed with the following technologies:
 <p aling="center">
     <img src="https://res.cloudinary.com/dozoyzosn/image/upload/v1606164691/search-movie-app/searchPage_m6tn2f.png" height="250">
     <img src="https://res.cloudinary.com/dozoyzosn/image/upload/v1606165189/search-movie-app/searchPage-Iron_o9xj6x.png" height="250">
-    <img src="https://res.cloudinary.com/dozoyzosn/image/upload/v1606165491/search-movie-app/searchPage-iron_vhtvig.gif" height="250">
+    
+</p><br/>
+<p aling="center">
+  <img src="https://res.cloudinary.com/dozoyzosn/image/upload/v1606165491/search-movie-app/searchPage-iron_vhtvig.gif" height="320">
 </p>
 
 ### :information_source: How to run
