@@ -23,13 +23,13 @@ This Project was developed with the following technologies:
 - [Sqlite](https://www.sqlite.org/index.html)
 - [Vs Code](https://code.visualstudio.com/)
 
-## Images/Gifs
-<p aling="center">
+## :camera: Images/Gifs
+<p aling="center" style="text-align:center">
     <img src="https://res.cloudinary.com/dozoyzosn/image/upload/v1606164691/search-movie-app/searchPage_m6tn2f.png" height="250">
     <img src="https://res.cloudinary.com/dozoyzosn/image/upload/v1606165189/search-movie-app/searchPage-Iron_o9xj6x.png" height="250">
-    
 </p><br/>
-<p aling="center">
+
+<p aling="center" style="text-align:center">
   <img src="https://res.cloudinary.com/dozoyzosn/image/upload/v1606165491/search-movie-app/searchPage-iron_vhtvig.gif" height="320">
 </p>
 
